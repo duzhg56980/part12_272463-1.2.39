@@ -1,0 +1,6 @@
+import com.alibaba.fastjson.support.spring.FastJsonpResponseBodyAdvice;
+public class FunctionUse1594 {
+public void funcUse() {
+FastJsonpResponseBodyAdvice fastjsonpresponsebodyadvice = new FastJsonpResponseBodyAdvice();
+}
+}
